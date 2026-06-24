@@ -80,10 +80,10 @@ Al aplicar el rebanado `[3:7]`, el intérprete incluye el índice de inicio (3) 
 
 ## Conceptos Técnicos Aplicados
 
-* **Método `.sort()**`: Operación que reordena los elementos de una lista de manera interna (*in-place*). Cuando la lista contiene tuplas, el ordenamiento se realiza comparando los primeros elementos de cada tupla de forma secuencial.
-* **Slicing (Rebanado `[inicio:fin]`)**: Sintaxis que permite extraer una subdivisión de una lista sin modificar la estructura original. Omitir el inicio (`[:3]`) indica que se arranca desde la posición cero. Utilizar valores negativos (`[-3:]`) instruye al motor a contar desde el final de la lista hacia atrás.
-* **Método `.count()**`: Función integrada que recorre la colección para realizar un conteo lineal de las ocurrencias que coinciden de forma exacta con el objeto pasado como argumento.
-* **Función `len()**`: Operador que devuelve un número entero que representa la cantidad total de elementos contenidos dentro de una estructura iterable.
+* Método `.sort()`: Operación que reordena los elementos de una lista de manera interna (*in-place*). Cuando la lista contiene tuplas, el ordenamiento se realiza comparando los primeros elementos de cada tupla de forma secuencial.
+* Slicing (Rebanado `[inicio:fin]`): Sintaxis que permite extraer una subdivisión de una lista sin modificar la estructura original. Omitir el inicio (`[:3]`) indica que se arranca desde la posición cero. Utilizar valores negativos (`[-3:]`) instruye al motor a contar desde el final de la lista hacia atrás.
+* Método `.count()`: Función integrada que recorre la colección para realizar un conteo lineal de las ocurrencias que coinciden de forma exacta con el objeto pasado como argumento.
+* Función `len()`: Operador que devuelve un número entero que representa la cantidad total de elementos contenidos dentro de una estructura iterable.
 
 
 
