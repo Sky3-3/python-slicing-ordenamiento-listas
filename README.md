@@ -86,6 +86,5 @@ Al aplicar el rebanado `[3:7]`, el intérprete incluye el índice de inicio (3) 
 * **Función `len()**`: Operador que devuelve un número entero que representa la cantidad total de elementos contenidos dentro de una estructura iterable.
 
 
-¿Te parece bien si ahora pasamos a armar las listas temáticas en tu cuenta de GitHub y el repositorio indexador central de tu perfil?
 
 ```
